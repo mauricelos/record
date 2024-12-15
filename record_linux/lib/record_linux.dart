@@ -6,7 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:record_platform_interface/record_platform_interface.dart';
 
 final executableDir = File(Platform.resolvedExecutable).parent.path;
-final _fmediaBin = '$executableDir/bin/fmedia';
+final _fmediaBin = '$executableDir/bin/fmedia-1/fmedia';
 
 const _pipeProcName = 'record_linux';
 
